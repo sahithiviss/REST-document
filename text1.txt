@@ -1,2 +1,9 @@
 JAVA API for XML binding
 If we want store the data in XML rather than storing in database, we use JAXB (Java Architecture for XML Binding)
+Error codes
+@RESTController
+@RequestMapping in REST
+returning jsp page in mvc
+content-type
+path variable
+GetMapping
